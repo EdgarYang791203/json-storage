@@ -1,0 +1,778 @@
+{
+  "test-api": {
+    "message": "Hello World"
+  },
+  "tasks": [
+    {
+      "title": "章節1",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "跑完打破鳥蛋後點海潮地穴傳送門到醫療箱",
+        "醫療箱後回家拿跑水",
+        "進水聲之淵走一小段到橋前 開門 等等會回來打螃蟹",
+        "踩監獄傳送點後回家打螃蟹 回監獄",
+        "跑監獄昇華 打典獄長後登出再到新點",
+        "魅影船墓先洞穴拿不滅之火，踩海妖洞窟後傳回船墓打船長",
+        "打完船長回家",
+        "打海妖"
+      ],
+      "memo": [
+        {
+          "memoTag": "p",
+          "memoClass": "text-center",
+          "hashtagTag": "span",
+          "hashtag": "#第一章",
+          "hashtagClass": "text-yellow-500",
+          "textTag": "span",
+          "text": "水聲之淵走一小段到橋示意",
+          "textClass": "",
+          "img": "/images/bridge.webp"
+        }
+      ]
+    },
+    {
+      "title": "章節2",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "打白色巨獸 踩危機岔路回家拿跑水",
+        "危機岔路左上方罪孽之殿二樓跑昇華後拿邪影寶石",
+        "回家",
+        "西部密林跑織網者巢穴",
+        "回家",
+        "打克雷頓",
+        "打歐克踩古樹前的點",
+        "打阿莉亞",
+        "打死隊長開印",
+        "危機岔路右下跑靜謐陵墓一樓昇華",
+        "進瀑布去推球(古代封印)走S就不會撞死路",
+        "走到瓦爾金字塔頂端打瓦爾全能",
+        "打瓦爾完直接重登回家 傳到第三章"
+      ]
+    },
+    {
+      "title": "章節3",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "打隊長後直奔火葬場",
+        "跑火葬場的昇華",
+        "打完派蒂後回家下水道",
+        "拿三顆雕像",
+        "市集地帶跑黑石陵墓的昇華",
+        "到激戰戰場=>拿絲線之軸、到不朽海港=>拿餘燼=>重登",
+        "找達拉夫人(記得拿粉)",
+        "回家",
+        "走下水道破門 => 打格拉維奇將軍 => 月影之殿",
+        "打完派蒂後回家去",
+        "跑花園昇華 回家拿絕望詛咒（點傷效益大)",
+        "跑第一次迷宮",
+        "打神主"
+      ]
+    },
+    {
+      "title": "章節4",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "左方乾涸湖岸拿旗子",
+        "救完人打大競技場",
+        "打岡姆",
+        "打瑪拉凱"
+      ]
+    },
+    {
+      "title": "章節5",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "拿探測棒後往上拿眼睛",
+        "直奔神聖大教堂",
+        "葬骨教堂拿純淨之印",
+        "聖物間拿奇塔弗折磨",
+        "回家 打奇塔弗"
+      ]
+    },
+    {
+      "title": "章節6",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "炙熱鹽沼拿眼睛 卡路堡壘打卡魯神",
+        "監獄拿昇華",
+        "打完薛朗 監獄大門打火山羊王",
+        "進河道後先到左上濕地打蟲女王",
+        "回家拿天賦點 順便換水",
+        "回河道走右下到南部森林",
+        "打海神王"
+      ]
+    },
+    {
+      "title": "章節7",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "危機岔路踩點 => 墮落遺跡 =>靜謐陵墓跑昇華和找地圖",
+        "罪孽之殿地圖裝置打鑰匙",
+        "罪孽之殿第二層跑昇華",
+        "打古斯特千面神",
+        "北部森林遇到驚魂樹洞時開門",
+        "一路跑到艾爾卡莉神殿前踩點後回家進門拿螢火蟲 打絕望之母",
+        "跑第二次迷宮",
+        "打艾爾卡莉"
+      ]
+    },
+    {
+      "title": "章節8",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "下水道打完德瑞後往右走",
+        "解十字架任務(十字架的通道門口會有一個大拱門+橋)",
+        "日耀神殿二層拿石頭=>一層橫跨海港大橋過去=>踩點",
+        "月影神殿拿石頭"
+      ],
+      "memo": [
+        {
+          "memoTag": "p",
+          "memoClass": "text-center",
+          "hashtagTag": "span",
+          "hashtagClass": "text-yellow-500",
+          "textTag": "span",
+          "textClass": "",
+          "hashtag": "#第八章",
+          "text": "大拱門+橋示意",
+          "img": "/images/brideg8-2.webp"
+        }
+      ]
+    },
+    {
+      "title": "章節9",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "拿風暴之刃",
+        "到下張地圖拿蜥蜴毒 回家",
+        "到隧道遺跡時跑昇華",
+        "到挖石場颶風神殿打卡洛翰",
+        "到煉油廠打將軍拿煉獄之粉",
+        "回家後交東西拿瓶中閃電打沙漠右上蠍子神",
+        "回家交任務 => 打三巨頭",
+        "回到月影神廣 => 跑大澡堂的昇華+空中花園打青蛙"
+      ]
+    },
+    {
+      "title": "章節10",
+      "titleTag": "h2",
+      "titleClass": "text-2xl text-yellow-500 font-bold text-center",
+      "content": [
+        "到摧殘大廣場後開門 先踩葬骨禮堂前的點",
+        "從焚燒大教堂到褻瀆之間拿聖杖 踩傳點回家 不能登出",
+        "回家釋放善 回到剛剛的門去打鎮壓地帶的天賦點(會飛來飛去的那隻王)",
+        "葬骨禮堂拿昇華",
+        "第三次迷宮 黑暗統御者",
+        "奇塔弗"
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "title": "遊俠",
+      "code": "ranger",
+      "ascendancy": [
+        {
+          "title": "奧莎比之女",
+          "id": "daughterofoshabi",
+          "img": "/images/ascendancies/daughter-of-oshabi.webp"
+        },
+        {
+          "title": "銳眼",
+          "id": "deadEye",
+          "img": "/images/ascendancies/deadeye.png"
+        },
+        {
+          "title": "追獵者",
+          "id": "pathfinder",
+          "img": "/images/ascendancies/pathfinder.webp"
+        },
+        {
+          "title": "守望者",
+          "id": "warden",
+          "img": "/images/ascendancies/warden.png"
+        }
+      ]
+    },
+    {
+      "title": "女巫",
+      "code": "witch",
+      "ascendancy": [
+        {
+          "title": "死靈師",
+          "id": "necromancer",
+          "img": "/images/ascendancies/necromancer.png"
+        },
+        {
+          "title": "元素使",
+          "id": "elementalist",
+          "img": "/images/ascendancies/elementalist.png"
+        },
+        {
+          "title": "秘術家",
+          "id": "occultist",
+          "img": "/images/ascendancies/occultist.png"
+        }
+      ]
+    },
+    {
+      "title": "決鬥者",
+      "code": "duelist",
+      "ascendancy": [
+        {
+          "title": "冠軍",
+          "id": "champion",
+          "img": "/images/ascendancies/champion.png"
+        },
+        {
+          "title": "處刑者",
+          "id": "slayer",
+          "img": "/images/ascendancies/slayer.png"
+        },
+        {
+          "title": "衛士",
+          "id": "gladiator",
+          "img": "/images/ascendancies/gladiator.png"
+        }
+      ]
+    }
+  ],
+  "builds": {
+    "champion": [
+      {
+        "chapter": "Act 1",
+        "content": [
+          {
+            "text": "鋼之裂化 +  | 機率流血",
+            "tagClasses": "text-green-500 | text-red-500"
+          },
+          { "text": "打破鳥蛋後", "tagClasses": "text-white" },
+          {
+            "text": "戰爭之旗 先祖衛士 |  幻步  | 鋼筋鐵骨",
+            "tagClasses": "text-red-500 | text-green-500 | text-red-500"
+          },
+          { "text": "拿完醫療箱後", "tagClasses": "text-white" },
+          {
+            "text": "鋼之裂化 + 穿透 + 氣勢輔助",
+            "tagClasses": "text-green-500"
+          },
+          { "text": "打完典獄長後", "tagClasses": "text-white" },
+          {
+            "text": "躍擊 +  | 快速攻擊",
+            "tagClasses": "text-red-500 | text-green-500"
+          },
+          {
+            "text": "鋼之裂化 + 穿透 + 氣勢輔助 |  活栓",
+            "tagClasses": "text-green-500 | text-red-500"
+          },
+          { "text": "先祖衛士 + 癱瘓輔助", "tagClasses": "text-red-500" },
+          {
+            "text": "本季因技能改動繼續使用鋼之裂化拓荒",
+            "tagClasses": "text-white"
+          }
+        ],
+        "memo": [],
+        "copyright": [
+          {
+            "title": "資料來源 Yotuber 惡魔貓和幾吉和點點",
+            "link": "https://www.youtube.com/watch?v=mCyLm72KHUU&list=WL&index=32&t=451s",
+            "textClass": "text-yellow-500"
+          },
+          {
+            "title": "資料來源 Yotuber 阿草",
+            "link": "https://www.youtube.com/watch?v=PPGGSuMI3QY&list=WL&index=41",
+            "textClass": "text-yellow-500"
+          }
+        ]
+      }
+    ],
+    "deadEye": [
+      {
+        "chapter": "Act 1",
+        "content": [
+          {
+            "text": "腐蝕箭(Lv1) + 放血 | (Lv4 鳥蛋) |  + 快速攻擊輔助 | (Lv8 衝出監牢)",
+            "tagClasses": "text-green-500 | text-white | text-green-500 | text-white"
+          },
+          {
+            "text": "幻步 | (Lv4 醫藥箱)",
+            "tagClasses": "text-green-500 | text-white"
+          },
+          {
+            "text": "毒藥 + 齊射輔助 + 機率中毒輔助 | (Lv12 海妖)",
+            "tagClasses": "text-green-500 | text-white"
+          }
+        ],
+        "memo": [
+          "增加投射物數量不要換掉，38 等後換高階版",
+          "機率中毒輔助用到補滿中毒機率再換傷害輔助，毒藥基礎 40% 毒捷 40% 天賦(遊俠外圈 + 刺客交界外圈) 40%",
+          "章節檢查換藥水洗恢復量，天賦要點三秒回生命藥劑充能防斷水",
+          "(可選)凋零之步掛凋零、幻步 => 盾衝"
+        ],
+        "images": [{ "src": "/images/talents/deadEye/act1.png" }]
+      },
+      {
+        "chapter": "Act 2",
+        "content": [
+          {
+            "text": "痛苦之捷 | (魔力保留 20%) |  鮮血狂怒 | (Lv16 黑色入侵者)",
+            "tagClasses": "text-green-500 | text-white | text-white"
+          },
+          {
+            "text": "召喚探測機獸 | (魔力保留 35%) |  (Lv16 盤根錯節)",
+            "tagClasses": "text-blue-500 | text-white | text-white"
+          },
+          {
+            "text": "猛毒投射物輔助 => 致命異常輔助 | (Lv18 清理蜘蛛)",
+            "tagClasses": "text-green-500 | text-white"
+          },
+          {
+            "text": "惡意 | (魔力保留 50%) |  病疫之難 | (打王用) |  (Lv24 第三章節迷失的愛情)",
+            "tagClasses": "text-blue-500 | text-white | text-green-500 | text-white | text-white"
+          }
+        ],
+        "memo": [
+          "天賦至少點一圈保留效用，遊俠刺客中間那圈 24%，可用魔力 15%，為了更順暢最好再點一圈魔力專精拿 12% 保留效用。",
+          "如不點魔力專精，技能串一顆 '活栓' (31 等圖書館取得或用買的)",
+          "如生存不足須點第二圈保留，除痛苦之捷留著其餘開堅定、優雅、反抗之旗(新版本可能不適)，點異能魔力(吞噬之冠) + 神聖祝福串惡意"
+        ],
+        "images": [{ "src": "/images/talents/deadEye/act2.png" }]
+      },
+      {
+        "chapter": "Act 3",
+        "content": [],
+        "memo": [
+          "跑昇華時可以準備綠色技能去置換彈炸之毒藥(消耗藥劑充能固定)，可以解放雙投射物數量輔助。"
+        ],
+        "images": [
+          { "src": "/images/talents/deadEye/act3-1.png" },
+          { "src": "/images/talents/deadEye/act3-2.png" },
+          { "src": "/images/talents/deadEye/act3-3.png" }
+        ]
+      },
+      {
+        "chapter": "Act 4",
+        "content": [
+          {
+            "text": "四連過度： | 毒藥 + 高階多重投射輔助(數量輔助) + 致命異常輔助 + |  活栓",
+            "tagClasses": "text-white | text-green-500 | text-red-500"
+          },
+          {
+            "text": "有彈炸之毒藥後： | 毒藥 + 高階多重投射輔助(數量輔助) + 高階齊射(數量輔助) + |  活栓",
+            "tagClasses": "text-white | text-green-500 | text-red-500"
+          },
+          {
+            "text": "六連優先度： | 毒藥(異變) + 高階多重投射輔助(數量輔助) + 高階齊射(數量輔助) + 致命異常輔助 + 猛毒投射物 + 虛空操縱 | 或 | 無邊異能",
+            "tagClasses": "text-white | text-green-500 | text-white | text-blue-500"
+          }
+        ],
+        "memo": [
+          "缺魔力先串活栓，等無情昇華拿追獵三秒回三充能再裝第二個數量輔助"
+        ]
+      },
+      {
+        "chapter": "Act 8",
+        "content": [],
+        "memo": [
+          "60 等後使用不朽生命藥劑洗出增加恢復量(66%)及減少恢復率，之後就可單生命藥劑配四瓶功能藥劑使用。",
+          "此流派裝備需求少(無法用武器)，只須注意生命抗性換裝。"
+        ]
+      },
+      {
+        "chapter": "Act All",
+        "content": [
+          { "text": "接下來都不用換直到昇華3進圖", "tagClasses": "text-white" },
+          {
+            "text": "腐蝕毒雨 + 幻影射手 + 虛空操作 + |  效能 +  | 猛毒投射物/撲殺 + |  活栓/賦予",
+            "tagClasses": "text-green-500 | text-blue-500 | text-green-500 | text-red-500"
+          },
+          {
+            "text": "腐蝕毒雨 + |  砲台輔助  | + 快速攻擊 + |  效能 +  | 猛毒投射物 + 虛空操作 + |  活栓/賦予",
+            "tagClasses": "text-green-500 | text-red-500 | text-green-500 | text-blue-500 | text-green-500 | text-red-500"
+          },
+          {
+            "text": "閃現射擊 凋零之步 幻步/ | 霜濂之瞬/烈焰衝刺",
+            "tagClasses": "text-green-500 | text-blue-500"
+          },
+          {
+            "text": "鮮血狂怒 狂怒 + 低接多重投射(選用) | 霜濂之瞬/烈焰衝刺",
+            "tagClasses": "text-green-500 | text-blue-500"
+          },
+          {
+            "text": "優雅 |  惡意 絕望 |  石化之血",
+            "tagClasses": "text-green-500 | text-blue-500 | text-red-500"
+          },
+          {
+            "text": "受傷施放 + 不朽怒號 + 持續時間延長 + 活栓",
+            "tagClasses": "text-red-500"
+          },
+          {
+            "text": "還有位置可放 | 瓦爾迅捷 | 爆發",
+            "tagClasses": "text-white | text-green-500 | text-white"
+          }
+        ],
+        "images": [
+          { "src": "/images/talents/deadEye/later1.png" },
+          { "src": "/images/talents/deadEye/later2.png" },
+          { "src": "/images/talents/deadEye/later3.png" }
+        ]
+      }
+    ],
+    "necromancer": [
+      {
+        "chapter": "Act 1",
+        "content": [
+          { "text": "冰霜脈衝 + 秘能波動輔助", "tagClasses": "text-blue-500" },
+          { "text": "拿完跑水後", "tagClasses": "text-white" },
+          {
+            "text": "召喚幻影輔助 | + 神聖火舌圖騰 + | 燃燒輔助",
+            "tagClasses": "text-blue-500 | text-red-500 | text-blue-500"
+          },
+          { "text": "烈焰之牆", "tagClasses": "text-blue-500" },
+          {
+            "text": "霜濂之瞬 + 秘能波動輔助 | (只需 2 等)",
+            "tagClasses": "text-blue-500 | text-white"
+          },
+          { "text": "寒霜爆 + 秘能波動輔助", "tagClasses": "text-blue-500" },
+          { "text": "打完船長後", "tagClasses": "text-white" },
+          {
+            "text": "赦免 + | 附加冰冷傷害 + | 附加閃電傷害",
+            "tagClasses": "text-red-500 | text-green-500 | text-blue-500"
+          },
+          {
+            "text": "丟掉 |  冰霜脈衝  |  神聖火舌圖騰  |  烈焰之牆  |  寒霜爆",
+            "tagClasses": "pr-2 | pr-2 text-blue-500 | pr-2 text-red-500 | pr-2 text-blue-500 | text-blue-500"
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/talents/necromancer/tip1.png",
+            "style": { "width": "300px" }
+          },
+          {
+            "src": "/images/talents/necromancer/tip2.png",
+            "style": { "width": "300px" }
+          },
+          { "src": "/images/talents/necromancer/act1.png" }
+        ],
+        "memo": []
+      },
+      {
+        "chapter": "Act 2",
+        "content": [
+          { "text": "拿到邪影寶石後", "tagClasses": "text-white" },
+          {
+            "text": "純淨之捷 + | 附加閃電傷害 | (附加冰冷傷害) + | 幻影召喚輔助",
+            "tagClasses": "text-red-500 | text-blue-500 | text-green-500 | text-blue-500"
+          },
+          { "text": "閃電之捷", "tagClasses": "text-blue-500" },
+          { "text": "跑完織網者巢穴", "tagClasses": "text-white" },
+          {
+            "text": "褻瀆 + | 秘能波動輔助 + 快速施放",
+            "tagClasses": "ml-5 text-green-500 | ml-5 text-blue-500"
+          }
+        ],
+        "memo": []
+      },
+      {
+        "chapter": "Act 3",
+        "content": [
+          { "text": "打格拉維奇將軍後", "tagClasses": "text-white" },
+          { "text": "脆弱", "tagClasses": "text-red-500" },
+          {
+            "text": "號召 喚醒幽魂(河道抓冥河銀背獸)",
+            "tagClasses": "text-blue-500"
+          },
+          { "text": "解完圖書館黃金之頁", "tagClasses": "text-white" },
+          {
+            "text": "純淨之捷 + | 豢養狂熱 + 召喚幻影輔助 + | 癱瘓輔助",
+            "tagClasses": "text-red-500 | text-blue-500 | text-red-500"
+          },
+          {
+            "text": "重盾衝鋒 or 躍擊 + | 快速攻擊",
+            "tagClasses": "text-red-500 | text-green-500"
+          },
+          {
+            "text": "堅定 | (點完光環圈可開)",
+            "tagClasses": "text-red-500 | text-white"
+          }
+        ],
+        "memo": []
+      },
+      {
+        "chapter": "Act All",
+        "content": [
+          {
+            "text": "洞色連線不夠不用強求",
+            "tagClasses": "text-right text-3xl"
+          },
+          {
+            "text": "打福爾拿旗子 => 開啟礦坑門後",
+            "tagClasses": "text-white"
+          },
+          {
+            "text": "食腐魔像 + 豢養狂熱 + | 癱瘓輔助",
+            "tagClasses": "text-blue-500 | text-red-500"
+          },
+          {
+            "text": "赦免 + | 召喚幻影輔助 + 附加閃電傷害 + 快速施放",
+            "tagClasses": "text-red-500 | text-blue-500"
+          },
+          { "text": "純淨之捷", "tagClasses": "text-red-500" },
+          { "text": "喚醒幽魂 + 召喚生命輔助", "tagClasses": "text-blue-500" },
+          {
+            "text": "霜濂之瞬/ | 重盾衝鋒 or 躍擊 + | 快速攻擊/ | 號召",
+            "tagClasses": "text-blue-500 | text-red-500 | text-green-500 | text-blue-500"
+          }
+        ],
+        "images": [
+          { "src": "/images/talents/necromancer/later1.png" },
+          { "src": "/images/talents/necromancer/later2.png" }
+        ],
+        "memo": []
+      }
+    ],
+    "daughterofoshabi": [
+      {
+        "chapter": "Act 1",
+        "content": [
+          {
+            "text": " 打死西拉克後",
+            "tagClasses": "text-white"
+          },
+          {
+            "text": "靈體投擲 + 氣勢輔助",
+            "tagClasses": "text-green-500"
+          },
+          {
+            "text": "拿完醫療箱後",
+            "tagClasses": "text-white"
+          },
+          {
+            "text": "靈體投擲 +  | 機率流血/ | 機率中毒 + 齊射輔助",
+            "tagClasses": "text-green-500 | text-red-500 | text-green-500"
+          },
+          {
+            "text": "霜漣之瞬",
+            "tagClasses": "text-blue-500"
+          },
+          {
+            "text": "踩監獄傳送點後回家拿輔助寶石",
+            "tagClasses": "text-white"
+          },
+          {
+            "text": "狙擊者印記",
+            "tagClasses": "text-green-500"
+          },
+          {
+            "text": "打完典獄長後",
+            "tagClasses": "text-white"
+          },
+          {
+            "text": "重盾猛衝 +  | 快速攻擊",
+            "tagClasses": "text-red-500 | text-green-500"
+          },
+          {
+            "text": "凋零之步",
+            "tagClasses": "text-green-500"
+          },
+          {
+            "text": "記得換兩罐12等的生命藥劑，應該能讓你打海妖隨便打",
+            "tagClasses": "text-white"
+          },
+          {
+            "text": "毒藥 + 齊射輔助 + 機率中毒輔助",
+            "tagClasses": "text-green-500"
+          }
+        ],
+        "memo": [
+          "準備一個三綠裝備 盡量為頭/手，等等轉換毒藥使用",
+          "為什麼盡量為頭手，因為鞋子(跑速)/盾牌(高抗)/身體(高閃避護甲)更換較快",
+          "狙擊者印記是為了提高暴擊率，因為暴擊率是提高傷害的重要因素",
+          "POE3.25 後所有職業都能買到重盾猛衝了"
+        ],
+        "images": [{ "src": "/images/talents/deadEye/act1.png" }]
+      },
+      {
+        "chapter": "Act 2",
+        "content": [
+          {
+            "text": "痛苦之捷 鮮血狂怒 極地裝甲",
+            "tagClasses": "text-green-500"
+          },
+          {
+            "text": "機率中毒 | (第一章和奈沙購買 等中毒機率面板100%後換為猛毒投射)",
+            "tagClasses": "text-blue-500 | text-white"
+          },
+          {
+            "text": " 跑完織網者巢穴後",
+            "tagClasses": "text-white"
+          },
+          {
+            "text": "毒藥 + 猛毒投射物輔助/虛空操縱 +  | 殘酷輔助",
+            "tagClasses": "text-green-500 | text-red-500"
+          },
+          {
+            "text": "第5L | (低階多重投射/猛毒投射物/虛空操縱/高階齊射(第四章拿到)",
+            "tagClasses": "text-white | text-green-500"
+          }
+        ],
+        "memo": [
+          "打克雷格(3.25 改為8%移動速度可考慮幫)",
+          "打阿莉亞((3.25 改為15%全抗可考慮幫)"
+        ],
+        "images": [{ "src": "/images/talents/deadEye/act2.png" }]
+      },
+      {
+        "chapter": "Act 3",
+        "content": [
+          {
+            "text": "跑火葬場的昇華後回家拿 | 病疫之難",
+            "tagClasses": "text-white | text-green-500"
+          },
+          {
+            "text": "接著任務獎勵拿 | 絕望",
+            "tagClasses": "text-white | text-blue-500"
+          },
+          {
+            "text": "迅捷/優雅(放在身上練)",
+            "tagClasses": "text-green-500"
+          },
+          {
+            "text": "開啟迅捷，關掉極地裝甲",
+            "tagClasses": "text-green-500"
+          },
+          {
+            "text": "先拿昇華和解圖書館",
+            "tagClasses": "text-white"
+          },
+          {
+            "text": "*(如果你是遊俠想轉 | 力抽地雷 | 建議打圖書館)",
+            "tagClasses": "text-white | text-blue-500 | text-white"
+          },
+          {
+            "text": "奧莎比之女 | 跟 | 艾爾卡莉僕人 | 請不要轉 | 力抽地雷",
+            "tagClasses": "text-green-500 | text-white | text-blue-500 | text-white | text-blue-500"
+          },
+          {
+            "text": "跑第一次迷宮，奧莎比之女 - 小神殿",
+            "tagClasses": "text-white"
+          }
+        ],
+        "memo": [
+          "當30等左右，等到天賦上中毒機率點完，毒藥上的機率中毒可以換為猛毒投射物",
+          "按下C 角色資訊確保你的毒藥在沒有'機率中毒'串連時造成中毒的機率是100%"
+        ],
+        "images": [
+          { "src": "/images/talents/deadEye/act3-2.png" },
+          { "src": "/images/talents/deadEye/act3-3.png" }
+        ]
+      },
+      {
+        "chapter": "Act 5",
+        "content": [
+          {
+            "text": "毒藥 + 虛空操縱 + 高階多投 + 低階多投",
+            "tagClasses": "text-green-500"
+          },
+          {
+            "text": "這樣串的目的是對上很近的目標時，這些全部的投射物會擠在一起，盡量跟王貼身",
+            "tagClasses": "text-white"
+          },
+          {
+            "text": "但這樣的配法非常耗水，如果水很常丟乾可以把高階拿下來換 | 猛毒投射物輔助",
+            "tagClasses": "text-white | text-green-500"
+          }
+        ],
+        "memo": []
+      },
+      {
+        "chapter": "Act 7",
+        "content": [
+          {
+            "text": "跑第二次迷宮，奧莎比之女 - 每10秒獲得神殿",
+            "tagClasses": "text-white"
+          }
+        ],
+        "memo": [
+          "昇華試煉注意",
+          "中間有個壞掉的製圖儀，那個製圖儀正對出去的方向，就是第二層的樓梯"
+        ]
+      },
+      {
+        "chapter": "Act All",
+        "content": [
+          {
+            "text": "跑第三次迷宮，請根據你自己的後續流派選擇",
+            "tagClasses": "text-white"
+          }
+        ],
+        "images": [],
+        "memo": [
+          "每6等的倍數更換紅水，將三個同階級的紅水丟商店可以升到下個階級(但賣50等沒辦法升到60等)",
+          "不朽生命藥劑(60)是遊戲中補量最高的紅水 不需要換到永恆生命藥劑(65)",
+          "絕對受難改版了！毒藥時期'不建議點'絕對受難，因為毒藥暴率非常難滿，除非你有高暴率的恩吉爾和諧"
+        ]
+      }
+    ]
+  },
+  "copyright": {
+    "deadEye": [
+      {
+        "title": "資料來源 Yotuber 賴阿奇",
+        "link": "https://www.youtube.com/watch?v=Ftd9axQuL5wo",
+        "textClass": "text-yellow-500"
+      },
+      {
+        "title": "資料來源 Yotuber DS 低欸死",
+        "link": "https://www.youtube.com/watch?v=gNscxrTy1sM",
+        "textClass": "text-yellow-500"
+      },
+      {
+        "title": "POB",
+        "link": "https://pobb.in/FDoOQy-vbM8I",
+        "textClass": "text-green-500"
+      },
+      {
+        "title": "天賦",
+        "link": "https://reurl.cc/lNWGzA",
+        "textClass": "text-blue-500"
+      }
+    ],
+    "champion": [
+      {
+        "title": "資料來源 Yotuber 惡魔貓和幾吉和點點",
+        "link": "https://www.youtube.com/watch?v=mCyLm72KHUU&list=WL&index=32&t=451s",
+        "textClass": "text-yellow-500"
+      },
+      {
+        "title": "資料來源 Yotuber 阿草",
+        "link": "https://www.youtube.com/watch?v=PPGGSuMI3QY&list=WL&index=41",
+        "textClass": "text-yellow-500"
+      }
+    ],
+    "necromancer": [
+      {
+        "title": "資料來源 Yotuber 惡魔貓和幾吉和點點",
+        "link": "https://www.youtube.com/watch?v=_EPN07rITJs&list=WL&index=33&t=211s",
+        "textClass": "text-yellow-500"
+      }
+    ],
+    "daughterofoshabi": [
+      {
+        "title": "資料來源 Yotuber 惡魔貓和幾吉和點點",
+        "link": "https://docs.google.com/spreadsheets/d/1T54Q3PgyN2mQSh5jd4uUlV8DVltn7xJBKB3yFVQQEzM/edit?gid=2089851574#gid=2089851574",
+        "textClass": "text-green-500"
+      }
+    ]
+  }
+}
