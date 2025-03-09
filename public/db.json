@@ -27,7 +27,7 @@
           "textTag": "span",
           "text": "水聲之淵走一小段到橋示意",
           "textClass": "",
-          "img": "/images/bridge.webp"
+          "img": "images/bridge.webp"
         }
       ]
     },
@@ -143,7 +143,7 @@
           "textClass": "",
           "hashtag": "#第八章",
           "text": "大拱門+橋示意",
-          "img": "/images/brideg8-2.webp"
+          "img": "images/brideg8-2.webp"
         }
       ]
     },
@@ -184,22 +184,22 @@
         {
           "title": "奧莎比之女",
           "id": "daughterofoshabi",
-          "img": "/images/ascendancies/daughter-of-oshabi.webp"
+          "img": "ascendancies/daughter-of-oshabi.webp"
         },
         {
           "title": "銳眼",
           "id": "deadEye",
-          "img": "/images/ascendancies/deadeye.png"
+          "img": "ascendancies/deadeye.png"
         },
         {
           "title": "追獵者",
           "id": "pathfinder",
-          "img": "/images/ascendancies/pathfinder.webp"
+          "img": "ascendancies/pathfinder.webp"
         },
         {
           "title": "守望者",
           "id": "warden",
-          "img": "/images/ascendancies/warden.png"
+          "img": "ascendancies/warden.png"
         }
       ]
     },
@@ -210,17 +210,17 @@
         {
           "title": "死靈師",
           "id": "necromancer",
-          "img": "/images/ascendancies/necromancer.png"
+          "img": "ascendancies/necromancer.png"
         },
         {
           "title": "元素使",
           "id": "elementalist",
-          "img": "/images/ascendancies/elementalist.png"
+          "img": "ascendancies/elementalist.png"
         },
         {
           "title": "秘術家",
           "id": "occultist",
-          "img": "/images/ascendancies/occultist.png"
+          "img": "ascendancies/occultist.png"
         }
       ]
     },
@@ -231,17 +231,17 @@
         {
           "title": "冠軍",
           "id": "champion",
-          "img": "/images/ascendancies/champion.png"
+          "img": "ascendancies/champion.png"
         },
         {
           "title": "處刑者",
           "id": "slayer",
-          "img": "/images/ascendancies/slayer.png"
+          "img": "ascendancies/slayer.png"
         },
         {
           "title": "衛士",
           "id": "gladiator",
-          "img": "/images/ascendancies/gladiator.png"
+          "img": "ascendancies/gladiator.png"
         }
       ]
     }
@@ -318,7 +318,7 @@
           "章節檢查換藥水洗恢復量，天賦要點三秒回生命藥劑充能防斷水",
           "(可選)凋零之步掛凋零、幻步 => 盾衝"
         ],
-        "images": [{ "src": "/images/talents/deadEye/act1.png" }]
+        "images": [{ "src": "talents/deadEye/act1.png" }]
       },
       {
         "chapter": "Act 2",
@@ -345,7 +345,7 @@
           "如不點魔力專精，技能串一顆 '活栓' (31 等圖書館取得或用買的)",
           "如生存不足須點第二圈保留，除痛苦之捷留著其餘開堅定、優雅、反抗之旗(新版本可能不適)，點異能魔力(吞噬之冠) + 神聖祝福串惡意"
         ],
-        "images": [{ "src": "/images/talents/deadEye/act2.png" }]
+        "images": [{ "src": "talents/deadEye/act2.png" }]
       },
       {
         "chapter": "Act 3",
@@ -354,9 +354,9 @@
           "跑昇華時可以準備綠色技能去置換彈炸之毒藥(消耗藥劑充能固定)，可以解放雙投射物數量輔助。"
         ],
         "images": [
-          { "src": "/images/talents/deadEye/act3-1.png" },
-          { "src": "/images/talents/deadEye/act3-2.png" },
-          { "src": "/images/talents/deadEye/act3-3.png" }
+          { "src": "talents/deadEye/act3-1.png" },
+          { "src": "talents/deadEye/act3-2.png" },
+          { "src": "talents/deadEye/act3-3.png" }
         ]
       },
       {
@@ -421,9 +421,9 @@
           }
         ],
         "images": [
-          { "src": "/images/talents/deadEye/later1.png" },
-          { "src": "/images/talents/deadEye/later2.png" },
-          { "src": "/images/talents/deadEye/later3.png" }
+          { "src": "talents/deadEye/later1.png" },
+          { "src": "talents/deadEye/later2.png" },
+          { "src": "talents/deadEye/later3.png" }
         ]
       }
     ],
@@ -455,14 +455,14 @@
         ],
         "images": [
           {
-            "src": "/images/talents/necromancer/tip1.png",
+            "src": "talents/necromancer/tip1.png",
             "style": { "width": "300px" }
           },
           {
-            "src": "/images/talents/necromancer/tip2.png",
+            "src": "talents/necromancer/tip2.png",
             "style": { "width": "300px" }
           },
-          { "src": "/images/talents/necromancer/act1.png" }
+          { "src": "talents/necromancer/act1.png" }
         ],
         "memo": []
       },
@@ -535,8 +535,8 @@
           }
         ],
         "images": [
-          { "src": "/images/talents/necromancer/later1.png" },
-          { "src": "/images/talents/necromancer/later2.png" }
+          { "src": "talents/necromancer/later1.png" },
+          { "src": "talents/necromancer/later2.png" }
         ],
         "memo": []
       }
@@ -600,7 +600,7 @@
           "狙擊者印記是為了提高暴擊率，因為暴擊率是提高傷害的重要因素",
           "POE3.25 後所有職業都能買到重盾猛衝了"
         ],
-        "images": [{ "src": "/images/talents/deadEye/act1.png" }]
+        "images": [{ "src": "talents/deadEye/act1.png" }]
       },
       {
         "chapter": "Act 2",
@@ -630,7 +630,7 @@
           "打克雷格(3.25 改為8%移動速度可考慮幫)",
           "打阿莉亞((3.25 改為15%全抗可考慮幫)"
         ],
-        "images": [{ "src": "/images/talents/deadEye/act2.png" }]
+        "images": [{ "src": "talents/deadEye/act2.png" }]
       },
       {
         "chapter": "Act 3",
@@ -673,8 +673,8 @@
           "按下C 角色資訊確保你的毒藥在沒有'機率中毒'串連時造成中毒的機率是100%"
         ],
         "images": [
-          { "src": "/images/talents/deadEye/act3-2.png" },
-          { "src": "/images/talents/deadEye/act3-3.png" }
+          { "src": "talents/deadEye/act3-2.png" },
+          { "src": "talents/deadEye/act3-3.png" }
         ]
       },
       {
